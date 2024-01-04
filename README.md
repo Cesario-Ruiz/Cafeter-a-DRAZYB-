@@ -1,6 +1,6 @@
 # Cafetería[DRAZYB]
 Integrantes del equipo DRAZYB:
-* Borges Valdés José Antonio.\n
+* Borges Valdés José Antonio.
 * Espinoza Calles Uzziel.
 * Martínez Carreola Daniel Alejandro.
 * Ruíz De La Cruz César.
