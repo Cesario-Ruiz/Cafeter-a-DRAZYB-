@@ -1,4 +1,4 @@
-# Cafeter-a-DRAZYB-
+# Cafetería-DRAZYB-
 Software de Gestión de un Cafetería implementada en C++. Utilizando los recursos adquiridos en la materia Estructura de Datos.
 	Integrantes del equipo DRAZYB:
 		* Borges Valdés José Antonio.
