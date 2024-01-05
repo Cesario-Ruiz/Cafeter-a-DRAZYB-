@@ -22,4 +22,4 @@ Poder revisar las ventas Totales, por Mesa, por Producto y venta Total en Genera
 * En la misma terminal/consola, ejecuta el siguente comando: `./cafeteria`
 * Y... ¡Listo! 🎉 Ya haz compilado y ejecutado nuetro Proyecto 🚀 ¡Tómate un rato para probarlo!
 
-Enlace al repositorio de github: [https://github.com/Cesario-Ruiz/Cafeteria-DRAZYB]
+Enlace al Proyecto en github: [Cafetería[DRAZYB]](https://github.com/Cesario-Ruiz/Cafeteria-DRAZYB)
