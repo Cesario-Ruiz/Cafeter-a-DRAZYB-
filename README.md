@@ -20,6 +20,6 @@ Poder revisar las ventas Totales, por Mesa, por Producto y venta Total en Genera
 * Ejecuta el siguente comando: `g++ main.cpp -o cafeteria`
 * Se creará un ejecutable con el nombre: `cafeteria`
 * En la misma terminal/consola, ejecuta el siguente comando: `./cafeteria`
-* Y... ¡Listo! 🎉 Ya haz compilado y ejecutado nuetro Proyecto 🚀 ¡Tómate un rato para probarlo!
+* Y... ¡Listo! 🎉 Ya haz compilado y ejecutado nuetro Proyecto 🚀 ¡Tómate tu tiempo para probarlo!
 
 Enlace al Proyecto en github: [Cafetería[DRAZYB]](https://github.com/Cesario-Ruiz/Cafeteria-DRAZYB)
